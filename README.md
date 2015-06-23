@@ -1,2 +1,0 @@
-# datascienciecoursera
-Data Sciencie - Coursera
